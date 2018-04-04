@@ -1,0 +1,10 @@
+/Users/callumoriley/Documents/VSCode/Google Home/bin/Debug/netcoreapp2.0/Google Home.deps.json
+/Users/callumoriley/Documents/VSCode/Google Home/bin/Debug/netcoreapp2.0/Google Home.runtimeconfig.json
+/Users/callumoriley/Documents/VSCode/Google Home/bin/Debug/netcoreapp2.0/Google Home.runtimeconfig.dev.json
+/Users/callumoriley/Documents/VSCode/Google Home/bin/Debug/netcoreapp2.0/Google Home.dll
+/Users/callumoriley/Documents/VSCode/Google Home/bin/Debug/netcoreapp2.0/Google Home.pdb
+/Users/callumoriley/Documents/VSCode/Google Home/obj/Debug/netcoreapp2.0/Google Home.csproj.CoreCompileInputs.cache
+/Users/callumoriley/Documents/VSCode/Google Home/obj/Debug/netcoreapp2.0/Google Home.AssemblyInfoInputs.cache
+/Users/callumoriley/Documents/VSCode/Google Home/obj/Debug/netcoreapp2.0/Google Home.AssemblyInfo.cs
+/Users/callumoriley/Documents/VSCode/Google Home/obj/Debug/netcoreapp2.0/Google Home.dll
+/Users/callumoriley/Documents/VSCode/Google Home/obj/Debug/netcoreapp2.0/Google Home.pdb
